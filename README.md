@@ -9,10 +9,10 @@
 Check the comments on the code to understand about it
 
 ### Example:
-Example code to pull reaction faces from youtube video 'Donald Trump Lets Jimmy Fallon Mess Up His Hair' from the youtube channel: The Tonight Show Starring Jimmy Fallon.
+Example code to pull images from youtube video from the youtube channel: The Late Show with Stephen Colbert.
 
     python3 generator.py
-    
+
 ### Example output:
 
 #### Surprise:
