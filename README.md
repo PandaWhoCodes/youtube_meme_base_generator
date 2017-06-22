@@ -4,12 +4,9 @@
 
 #### Uses opencv(for face detection), pytube(to download the youtube video), Microsoft Congnitive Emotion API (to tag images with emotions)
 
-    <p align="center"><img src="http://i.imgur.com/DcOpofc.png" height="300"/></p>
+<p align="center"><img src="http://i.imgur.com/DcOpofc.png" height="300"/></p>
 
 Check the comments on the code to understand about it
-
-
-<p align="center"><img src="https://github.com/AdamSpannbauer/youtube_reaction_face/blob/master/pics/tools_used.png" height="100"/></p>
 
 ### Example:
 Example code to pull reaction faces from youtube video 'Donald Trump Lets Jimmy Fallon Mess Up His Hair' from the youtube channel: The Tonight Show Starring Jimmy Fallon.
